@@ -146,7 +146,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-food-delivery.git
+git clone https://github.com/ajinkya029/mern-food-delivery.git
 ```
 
 ### 2. Navigate to the Project Directory
